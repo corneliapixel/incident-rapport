@@ -1,0 +1,10 @@
+INCIDENT-RAPPORT 
+
+Datum: 2026-03-18
+Rapporterad av: Cornelia Ärlerud
+Status: PÅGÅENDE
+
+Beskrivning:
+Filservern svarar inte sedan 08:14.
+Berörda användare: okänt antal.
+Åtgärd: Utreds.
