@@ -2,9 +2,12 @@ INCIDENT-RAPPORT
 
 Datum: 2026-03-18
 Rapporterad av: Cornelia Ärlerud
-Status: PÅGÅENDE
+Status: LÖST
 
 Beskrivning:
 Filservern svarar inte sedan 08:14.
 Berörda användare: ca 40 personer, hela ekonomiavdelningen och hela IT-avdelningen
 Åtgärd: Servern pingades utan svar. Fysisk kontroll påbörjad.
+
+Löst: 09:52 av Cornelia Ärlerud 
+Orsak: UPS-haveri.

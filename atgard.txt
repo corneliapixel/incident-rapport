@@ -1,0 +1,7 @@
+ÅTGÄRDSLOGG
+
+09:45 - Orsak identifierad: UPS-haveri.
+        Servern startade inte om automatiskt efter strömtapp.
+09:52 - Server startard manuellt. Filserver svarar.
+10:05 - Samtliga användare bekräftat återanslutna.
+
