@@ -1,8 +1,8 @@
-# Stor rubrik
-## Mellanstor rubrik
-### Ännu mindre rubrik
+# A first-level heading
+## A second-level heading
+### A third-level heading
 
-Vanlig brödtext.
+Common body text.
 
 *italic*
 
