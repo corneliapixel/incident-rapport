@@ -4,16 +4,16 @@
 
 Vanlig brödtext.
 
-*kursiv text*
+*italic*
 
 **bold**
 
 ***bold & italic***
 
-- punkt 1
-- punkt 2
-- punkt 3
+- 1
+- 2
+- 3
 
-1. numrerad
-2. en till numrerad
-3. fortsätt numera
+1. numbered
+2. another one
+3. continuing 
