@@ -10,9 +10,9 @@ Common body text.
 
 ***bold & italic***
 
-- 1
-- 2
-- 3
+- Line 1
+- Line 2
+- Line 3
 
 1. numbered
 2. another one
