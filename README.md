@@ -17,3 +17,9 @@ Common body text.
 1. numbered
 2. another one
 3. continuing 
+
+
+[Länk till potatis](bilder/pannkakor.jpg)
+
+![Bild på potatis](bilder/pannkakor.jpg)
+
